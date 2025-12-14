@@ -5,7 +5,7 @@ This repository contains image processing exercises, laboratory work, and camera
 The project focuses on **image acquisition, processing, and analysis using C++ and OpenCV**, with practical experiments.
 
 ---
-## 📚 Course Information
+##  Course Information
 
 * **University:** HAW Hamburg 
 * **Program:** Master’s in Information and Communication Technology
@@ -15,21 +15,20 @@ The project focuses on **image acquisition, processing, and analysis using C++ a
 
 ---
 
-## 👨‍🏫 Credits
+##  Credits
 
 Some code materials, laboratory tasks, and provided imaging data are credited to:
 
 **Prof. Dr. Hensel**
 HAW Hamburg
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Implement classical **image processing algorithms** in C++
 * Apply theoretical concepts through **hands-on lab sessions**
-
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 ImageProcessing_C++
@@ -41,7 +40,7 @@ ImageProcessing_C++
 ```
 ---
 
-## 📂 Folder Description
+##  Folder Description
 
 ### `Camera_AlliedVisionAlvium/`
 
@@ -62,7 +61,7 @@ The main goals are:
 
   * OpenCV fundamentals
   * Classic Image Processing Steps
-  * 
+
 * Exercises are aligned with the course workbook and lectures
 
 ---
@@ -99,7 +98,7 @@ The main goals are:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **C++ Modern C++)**
 * **OpenCV and Visual Studio 2022**
@@ -108,31 +107,27 @@ The main goals are:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/ImageProcessing_Cpp.git
    ```
-2. Install OpenCV (if not installed):
-
-   ```bash
-   sudo apt install libopencv-dev
-   ```
+2. Install OpenCV (if not installed)
 3. Link opencv with Visual Studio 2022 (opencv as environment variable)
 5. Run the examples in Visual Studio 2022 eg. any *.sln 
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 * All materials are shared **for learning and demonstration purposes only**.
 * Do **not** reuse or redistribute course materials without permission.
 
 ---
 
-## 📌 Author
+##  Author
 
 **Suman Kafle**
 M.Sc Graduated – Information and Communication Technology
